@@ -31,6 +31,8 @@ body {
   padding-bottom: 25%;
 }
 .calculator__display-input {
+  display: flex;
+  align-items: center;
   font-family: 'Courier New', Courier, monospace;
   font-size: 4rem;
   color: var(--dark-blue);
